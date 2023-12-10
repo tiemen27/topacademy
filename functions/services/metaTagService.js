@@ -63,16 +63,16 @@ function getDefaultTags() {
 		"googlebot": "all",
 		"robots": "all",
 		// OpenGraph
-		"og:site_name": "SimpleVino",
-		"og:title": "SimpleVino",
+		"og:site_name": "VinoSimple",
+		"og:title": "VinoSimple",
 		"og:description": description,
 		"og:image": imageUrl,
 		"og:type": "website",
 		// Twitter
-		"twitter:site": "@SimpleVino",
+		"twitter:site": "@VinoSimple",
 		"twitter:card": "summary_large_image",
 		"twitter:image": imageUrl,
-		"twitter:title": "SimpleVino",
+		"twitter:title": "VinoSimple",
 		"twitter:description": description
 	};
 }
